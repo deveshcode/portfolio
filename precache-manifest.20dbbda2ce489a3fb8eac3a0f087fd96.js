@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d0eb3d82694b2e328f685d6f726cd59",
+    "revision": "ed6e594c2960b67d67b8f7088c4b7514",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "e0c413e5d3273fe81247",
+    "revision": "822a8f3d155db05e8dad",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "8b9aa16a9356081b243c",
+    "revision": "7a360a063e89eaaf9c31",
     "url": "/developerFolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "dc0e2fbc4c4c4d3c87c2",
-    "url": "/developerFolio/static/css/main.1cfdb85d.chunk.css"
+    "revision": "ab1bd542d41aec772b19",
+    "url": "/developerFolio/static/css/main.5b541a5e.chunk.css"
   },
   {
-    "revision": "b42c6e660e0ae68b9270",
-    "url": "/developerFolio/static/js/2.4e5a5d2f.chunk.js"
+    "revision": "194af53d15c0d604f5d4",
+    "url": "/developerFolio/static/js/2.9bd5e21d.chunk.js"
   },
   {
-    "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/developerFolio/static/js/2.4e5a5d2f.chunk.js.LICENSE.txt"
+    "revision": "408f8ade359af8695a328ed937291fdf",
+    "url": "/developerFolio/static/js/2.9bd5e21d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e0c413e5d3273fe81247",
-    "url": "/developerFolio/static/js/3.72feead1.chunk.js"
+    "revision": "822a8f3d155db05e8dad",
+    "url": "/developerFolio/static/js/3.07f8f4b8.chunk.js"
   },
   {
-    "revision": "8b9aa16a9356081b243c",
-    "url": "/developerFolio/static/js/4.8575ba78.chunk.js"
+    "revision": "7a360a063e89eaaf9c31",
+    "url": "/developerFolio/static/js/4.3834c8de.chunk.js"
   },
   {
-    "revision": "dc0e2fbc4c4c4d3c87c2",
-    "url": "/developerFolio/static/js/main.57a4bd48.chunk.js"
+    "revision": "ab1bd542d41aec772b19",
+    "url": "/developerFolio/static/js/main.7a6b9738.chunk.js"
   },
   {
-    "revision": "6651a57734100a5d0d24",
-    "url": "/developerFolio/static/js/runtime-main.a512e9ce.js"
+    "revision": "78d729082f6a11d51253",
+    "url": "/developerFolio/static/js/runtime-main.4c63aaff.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
